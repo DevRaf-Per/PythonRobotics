@@ -570,15 +570,15 @@ If you use this project's code for your academic work, we encourage you to cite 
 
 If you use this project's code in industry, we'd love to hear from you as well; feel free to reach out to the developers directly.
 
-># Support
+># ~~Support~~
 >
->If you or your company would like to support this project, please consider:
+>~~If you or your company would like to support this project, please consider:~~
 >
->- [Sponsor @AtsushiSakai on GitHub Sponsors](https://github.com/sponsors/AtsushiSakai)
+>- ~~[Sponsor @AtsushiSakai on GitHub Sponsors]()~~
 >
->- [Become a backer or sponsor on Patreon](https://www.patreon.com/myenigma)
+>- ~~[Become a backer or sponsor on Patreon]()~~
 >
->- [One-time donation via PayPal](https://www.paypal.me/myenigmapay/)
+>- ~~[One-time donation via PayPal]()~~
 
 # Authors
 
