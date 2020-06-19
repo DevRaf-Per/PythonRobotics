@@ -134,13 +134,13 @@ All animation gifs are stored here: [AtsushiSakai/PythonRoboticsGifs: Animation 
 
 ## Extended Kalman Filter localization
 
-<img src="Localization/extended_kalman_filter/animation.gif" width="640" alt="EKF pic">
+<img src="https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/Localization/extended_kalman_filter/animation.gif" width="640" alt="EKF pic">
 
-Documentation: [Notebook](Localization/extended_kalman_filter/extended_kalman_filter_localization.ipynb)
+Documentation: [Notebook](/Localization/extended_kalman_filter/extended_kalman_filter_localization.ipynb)
 
 ## Particle filter localization
 
-![2](Localization/particle_filter/animation.gif)
+![2](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/Localization/particle_filter/animation.gif)
 
 This is a sensor fusion localization with Particle Filter(PF).
 
@@ -159,7 +159,7 @@ Ref:
 
 ## Histogram filter localization
 
-![3](Localization/histogram_filter/animation.gif)
+![3](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/Localization/histogram_filter/animation.gif)
 
 This is a 2D localization example with Histogram filter.
 
@@ -183,31 +183,31 @@ Ref:
 
 This is a 2D Gaussian grid mapping example.
 
-![2](Mapping/gaussian_grid_map/animation.gif)
+![2](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/Mapping/gaussian_grid_map/animation.gif)
 
 ## Ray casting grid map
 
 This is a 2D ray casting grid mapping example.
 
-![2](Mapping/raycasting_grid_map/animation.gif)
+![2](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/Mapping/raycasting_grid_map/animation.gif)
 
 ## Lidar to grid map
 
 This example shows how to convert a 2D range measurement to a grid map.
 
-![2](Mapping/lidar_to_grid_map/animation.gif)
+![2](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/Mapping/lidar_to_grid_map/animation.gif)
 
 ## k-means object clustering
 
 This is a 2D object clustering with k-means algorithm.
 
-![2](Mapping/kmeans_clustering/animation.gif)
+![2](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/Mapping/kmeans_clustering/animation.gif)
 
 ## Rectangle fitting
 
 This is a 2D rectangle fitting for vehicle detection.
 
-![2](Mapping/rectangle_fitting/animation.gif)
+![2](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/Mapping/rectangle_fitting/animation.gif)
 
 
 # SLAM
@@ -220,7 +220,7 @@ This is a 2D ICP matching example with singular value decomposition.
 
 It can calculate a rotation matrix and a translation vector between points to points.
 
-![3](SLAM/iterative_closest_point/animation.gif)
+![3](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/SLAM/iterative_closest_point/animation.gif)
 
 Ref:
 
@@ -238,7 +238,7 @@ The red points are particles of FastSLAM.
 Black points are landmarks, blue crosses are estimated landmark positions by FastSLAM.
 
 
-![3](SLAM/FastSLAM1/animation.gif)
+![3](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/SLAM/FastSLAM1/animation.gif)
 
 
 Ref:
@@ -256,7 +256,7 @@ This is a 2D navigation sample code with Dynamic Window Approach.
 
 - [The Dynamic Window Approach to Collision Avoidance](https://www.ri.cmu.edu/pub_files/pub1/fox_dieter_1997_1/fox_dieter_1997_1.pdf)
 
-![2](PathPlanning/DynamicWindowApproach/animation.gif)
+![2](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/DynamicWindowApproach/animation.gif)
 
 
 ## Grid based search
@@ -265,7 +265,7 @@ This is a 2D navigation sample code with Dynamic Window Approach.
 
 This is a 2D grid based shortest path planning with Dijkstra's algorithm.
 
-![PythonRobotics/figure_1.png at master · AtsushiSakai/PythonRobotics](PathPlanning/Dijkstra/animation.gif)
+![PythonRobotics/figure_1.png at master · AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/Dijkstra/animation.gif)
 
 In the animation, cyan points are searched nodes.
 
@@ -273,7 +273,7 @@ In the animation, cyan points are searched nodes.
 
 This is a 2D grid based shortest path planning with A star algorithm.
 
-![PythonRobotics/figure_1.png at master · AtsushiSakai/PythonRobotics](PathPlanning/AStar/animation.gif)
+![PythonRobotics/figure_1.png at master · AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/AStar/animation.gif)
 
 In the animation, cyan points are searched nodes.
 
@@ -283,7 +283,7 @@ Its heuristic is 2D Euclid distance.
 
 This is a 2D grid based path planning with Potential Field algorithm.
 
-![PotentialField](PathPlanning/PotentialFieldPlanning/animation.gif)
+![PotentialField](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/PotentialFieldPlanning/animation.gif)
 
 In the animation, the blue heat map shows potential value on each grid.
 
@@ -295,7 +295,7 @@ Ref:
 
 This is a 2D grid based coverage path planning simulation.
 
-![PotentialField](PathPlanning/GridBasedSweepCPP/animation.gif)
+![PotentialField](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/GridBasedSweepCPP/animation.gif)
 
 ## State Lattice Planning
 
@@ -312,16 +312,16 @@ Ref:
 
 ### Biased polar sampling
 
-![PythonRobotics/figure_1.png at master · AtsushiSakai/PythonRobotics](PathPlanning/StateLatticePlanner/BiasedPolarSampling.gif)
+![PythonRobotics/figure_1.png at master · AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/StateLatticePlanner/BiasedPolarSampling.gif)
 
 
 ### Lane sampling
 
-![PythonRobotics/figure_1.png at master · AtsushiSakai/PythonRobotics](PathPlanning/StateLatticePlanner/LaneSampling.gif)
+![PythonRobotics/figure_1.png at master · AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/StateLatticePlanner/LaneSampling.gif)
 
 ## Probabilistic Road-Map (PRM) planning 
 
-![PRM](PathPlanning/ProbabilisticRoadMap/animation.gif)
+![PRM](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/ProbabilisticRoadMap/animation.gif)
 
 This PRM planner uses Dijkstra method for graph search.
 
@@ -341,7 +341,7 @@ Ref:
 
 ### RRT\*
 
-![PythonRobotics/figure_1.png at master · AtsushiSakai/PythonRobotics](PathPlanning/RRTstar/animation.gif)
+![PythonRobotics/figure_1.png at master · AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/RRTstar/animation.gif)
 
 This is a path planning code with RRT\*
 
@@ -355,7 +355,7 @@ Ref:
 
 ### RRT\* with reeds-shepp path
 
-![Robotics/animation.gif at master · AtsushiSakai/PythonRobotics](PathPlanning/RRTStarReedsShepp/animation.gif))
+![Robotics/animation.gif at master · AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/RRTStarReedsShepp/animation.gif))
 
 Path planning for a car robot with RRT\* and reeds shepp path planner.
 
@@ -365,7 +365,7 @@ This is a path planning simulation with LQR-RRT\*.
 
 A double integrator motion model is used for LQR local planner.
 
-![LQRRRT](PathPlanning/LQRRRTStar/animation.gif)
+![LQRRRT](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/LQRRRTStar/animation.gif)
 
 Ref:
 
@@ -378,7 +378,7 @@ Ref:
 
 Motion planning with quintic polynomials.
 
-![2](PathPlanning/QuinticPolynomialsPlanner/animation.gif)
+![2](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/QuinticPolynomialsPlanner/animation.gif)
 
 It can calculate 2D path, velocity, and acceleration profile based on quintic polynomials.
 
@@ -390,7 +390,7 @@ Ref:
 
 A sample code with Reeds Shepp path planning.
 
-![RSPlanning](PathPlanning/ReedsSheppPath/animation.gif?raw=true)
+![RSPlanning](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/ReedsSheppPath/animation.gif?raw=true)
 
 Ref:
 
@@ -405,12 +405,12 @@ Ref:
 
 A sample code using LQR based path planning for double integrator model.
 
-![RSPlanning](PathPlanning/LQRPlanner/animation.gif?raw=true)
+![RSPlanning](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/LQRPlanner/animation.gif?raw=true)
 
 
 ## Optimal Trajectory in a Frenet Frame 
 
-![3](PathPlanning/FrenetOptimalTrajectory/animation.gif)
+![3](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/FrenetOptimalTrajectory/animation.gif)
 
 This is optimal trajectory generation in a Frenet Frame.
 
@@ -431,7 +431,7 @@ Ref:
 
 This is a simulation of moving to a pose control
 
-![2](PathTracking/move_to_pose/animation.gif)
+![2](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathTracking/move_to_pose/animation.gif)
 
 Ref:
 
@@ -442,7 +442,7 @@ Ref:
 
 Path tracking simulation with Stanley steering control and PID speed control.
 
-![2](PathTracking/stanley_controller/animation.gif)
+![2](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathTracking/stanley_controller/animation.gif)
 
 Ref:
 
@@ -456,7 +456,7 @@ Ref:
 
 Path tracking simulation with rear wheel feedback steering control and PID speed control.
 
-![PythonRobotics/figure_1.png at master · AtsushiSakai/PythonRobotics](PathTracking/rear_wheel_feedback/animation.gif)
+![PythonRobotics/figure_1.png at master · AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathTracking/rear_wheel_feedback/animation.gif)
 
 Ref:
 
@@ -467,7 +467,7 @@ Ref:
 
 Path tracking simulation with LQR speed and steering control.
 
-![3](PathTracking/lqr_speed_steer_control/animation.gif)
+![3](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathTracking/lqr_speed_steer_control/animation.gif)
 
 Ref:
 
@@ -478,7 +478,7 @@ Ref:
 
 Path tracking simulation with iterative linear model predictive speed and steering control.
 
-<img src="PathTracking/model_predictive_speed_and_steer_control/animation.gif" width="640" alt="MPC pic">
+<img src="https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathTracking/model_predictive_speed_and_steer_control/animation.gif" width="640" alt="MPC pic">
 
 Ref:
 
@@ -490,7 +490,7 @@ Ref:
 
 A motion planning and path tracking simulation with NMPC of C-GMRES 
 
-![3](PathTracking/cgmres_nmpc/animation.gif)
+![3](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathTracking/cgmres_nmpc/animation.gif)
 
 Ref:
 
@@ -507,7 +507,7 @@ This is a interactive simulation.
 
 You can set the goal position of the end effector with left-click on the ploting area. 
 
-![3](ArmNavigation/n_joint_arm_to_point_control/animation.gif)
+![3](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/ArmNavigation/n_joint_arm_to_point_control/animation.gif)
 
 In this simulation N = 10, however, you can change it.
 
@@ -515,7 +515,7 @@ In this simulation N = 10, however, you can change it.
 
 Arm navigation with obstacle avoidance simulation.
 
-![3](ArmNavigation/arm_obstacle_navigation/animation.gif)
+![3](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/ArmNavigation/arm_obstacle_navigation/animation.gif)
 
 
 # Aerial Navigation
@@ -524,13 +524,13 @@ Arm navigation with obstacle avoidance simulation.
 
 This is a 3d trajectory following simulation for a quadrotor.
 
-![3](AerialNavigation/drone_3d_trajectory_following/animation.gif)
+![3](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/AerialNavigation/drone_3d_trajectory_following/animation.gif)
 
 ## rocket powered landing
 
 This is a 3d trajectory generation simulation for a rocket powered landing.
 
-![3](AerialNavigation/rocket_powered_landing/animation.gif)
+![3](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/AerialNavigation/rocket_powered_landing/animation.gif)
 
 Ref:
 
@@ -544,7 +544,7 @@ This is a bipedal planner for modifying footsteps with inverted pendulum.
 
 You can set the footsteps and the planner will modify those automatically.
 
-![3](Bipedal/bipedal_planner/animation.gif)
+![3](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/Bipedal/bipedal_planner/animation.gif)
 
 # License 
 
@@ -566,19 +566,19 @@ If your PR is merged multiple times, I will add your account to the author list.
 
 # Citing
 
-If you use this project's code for your academic work, we encourage you to cite [our papers](https://arxiv.org/abs/1808.10703) 
+If you use this project's code for your academic work, we encourage you to cite [the papers](https://arxiv.org/abs/1808.10703) 
 
 If you use this project's code in industry, we'd love to hear from you as well; feel free to reach out to the developers directly.
 
-# Support
-
-If you or your company would like to support this project, please consider:
-
-- [Sponsor @AtsushiSakai on GitHub Sponsors](https://github.com/sponsors/AtsushiSakai)
-
-- [Become a backer or sponsor on Patreon](https://www.patreon.com/myenigma)
-
-- [One-time donation via PayPal](https://www.paypal.me/myenigmapay/)
+># Support
+>
+>If you or your company would like to support this project, please consider:
+>
+>- [Sponsor @AtsushiSakai on GitHub Sponsors](https://github.com/sponsors/AtsushiSakai)
+>
+>- [Become a backer or sponsor on Patreon](https://www.patreon.com/myenigma)
+>
+>- [One-time donation via PayPal](https://www.paypal.me/myenigmapay/)
 
 # Authors
 
